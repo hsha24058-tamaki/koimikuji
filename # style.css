@@ -1,0 +1,28 @@
+ body {
+    text-align: center;
+    background-color: aliceblue;
+    font-family: Arial,  sans-serif;
+ }
+ 
+ h1{
+  color: aliceblue;
+ }
+       
+ button{
+      padding: 10px;
+      font-size: 18px;
+      background-color: aliceblue;
+      color: aliceblue;
+      border: none;
+      background-repeat: 5px;
+      cursor: pointer;
+ }    
+
+ button:hover{
+    background-color: aliceblue;
+ }
+
+ .result{
+    margin-top: 20px;
+    font-size: 20px;
+ }
